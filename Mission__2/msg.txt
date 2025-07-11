@@ -1,0 +1,6 @@
+This message will self-destruct once it leaves the cache.
+Attention Agent,
+Your mission is to exfiltrate this secret without using pipes and sockets, use shared memory. The only weapon at your disposal is the mighty Flush and Reload.
+If anyone asks, you never saw this message.
+Remember, bits may flip but agents do not.
+Good luck. This message will vanish in three… two… one.
